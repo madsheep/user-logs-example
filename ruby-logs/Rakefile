@@ -1,0 +1,4 @@
+require 'bundler'
+Bundler.require
+
+Rake.add_rakelib 'lib/tasks'
